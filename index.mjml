@@ -7,7 +7,7 @@
       <mj-section background-color="#ecb177">
     </mj-attributes>
     
-    <mj-title>Hello MJML</mj-title>
+    <mj-title>POLO BIGGEST FAN</mj-title>
 
   </mj-head>
 
@@ -22,6 +22,12 @@
           </span>
           </a>
         </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+        <mj-image width="600px" src="img/TheGoat_PoloG.png"/>
       </mj-column>
     </mj-section>
     
